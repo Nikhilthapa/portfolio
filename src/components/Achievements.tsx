@@ -52,10 +52,6 @@ const Achievements = () => {
       period: "June 2023 – Dec 2023",
       description:
         "Leading backend development for enterprise-scale applications serving 1M+ users",
-      // description: [
-      //   "1) Leading backend development for enterprise-scale applications serving 1M+ users",
-      //   "SDFGHJKl",
-      // ],
     },
     // {
     //   company: "StartupX",
